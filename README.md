@@ -22,11 +22,12 @@ The original CopywriteR has been described in
 
 
 ## Changes specific for this version
-This version of CopywriteR incorporates the reference files for Canine (canFam3)
- and Feline (felCat9) and has been adjusted to handle the chromosome names as 
- used for Feline (A1, A2, A3, B1, etc). 
+This version of CopywriteR incorporates the blacklisting, GC and mappability files
+ specific for Canine (canFam3)and Feline (felCat9). Furthermore, the code has been
+ adjusted to handle the chromosome names as used for Feline (A1, A2, A3, B1, etc). 
  
  This version of CopywriteR does NOT support the analysis of human and mouse samples. 
+ For running human and mouse analysis please check out the original version of [CopywriteR](https://github.com/PeeperLab/CopywriteR) and via Bioconductor.org. 
 
 ## Manuscript
 The manuscript in which this version of CopywriteR was used is currently under review.
