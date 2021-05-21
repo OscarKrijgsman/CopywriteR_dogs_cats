@@ -1,0 +1,25 @@
+Package: CopywriteR
+Type: Package
+Title: Copy number information from targeted sequencing using
+        off-target reads
+Version: 2.18.0
+Date: 2016-02-23
+Author: Thomas Kuilman
+Maintainer: Oscar Krijgsman <o.krijgsman@nki.nl>
+Imports: matrixStats, gtools, data.table, S4Vectors, chipseq, IRanges,
+        Rsamtools, DNAcopy, GenomicAlignments, GenomicRanges,
+        CopyhelpeR, GenomeInfoDb, futile.logger
+Depends: R(>= 3.2), BiocParallel
+Suggests: BiocStyle, SCLCBam, snow
+URL: https://github.com/PeeperLab/CopywriteR
+Description: CopywriteR extracts DNA copy number information from targeted sequencing by utiizing off-target reads. It allows for extracting uniformly distributed copy number information, can be used without reference, and can be applied to sequencing data obtained from various techniques including chromatin immunoprecipitation and target enrichment on small gene panels. Thereby, CopywriteR constitutes a widely applicable alternative to available copy number detection tools.
+License: GPL-2
+biocViews: ImmunoOncology, TargetedResequencing, ExomeSeq,
+        CopyNumberVariation, Preprocessing, Visualization, Coverage
+git_url: https://git.bioconductor.org/packages/CopywriteR
+git_branch: RELEASE_3_10
+git_last_commit: 393d611
+git_last_commit_date: 2019-10-29
+Date/Publication: 2019-10-29
+NeedsCompilation: no
+Packaged: 2019-10-30 01:26:12 UTC; biocbuild
