@@ -1,5 +1,5 @@
 # CopywriteR_dogs_cats
-Custom CopywriteR version for Canine and Feline DNA copynumber profiles from Exome Seq data
+Custom CopywriteR version to support Canine and Feline DNA copynumber profiles from Exome Seq data
 
 ## Background CopywriteR
 Current methods for detection of copy number variants and aberrations (CNV and
@@ -36,7 +36,10 @@ Authors: Kim Wong, Latasha Ludwig, Oscar Krijgsman, David James Adams, Geoffrey 
 
 A link will be provided as soon as the manuscript has been published. 
 
+## Contact
 
+For questions about the software you can email me at: 
+- [Oscar Krijgsman](mailto:oscarkrijgsman@gmail.com).
 
 
 
